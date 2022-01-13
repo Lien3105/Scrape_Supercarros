@@ -1,0 +1,321 @@
+Currency,Price,Year,Brand_Model,Info,Type
+US,"59,900",2022,Mini Cooper S Countryman ALL4,2022 - Gasolina - Nuevo - N/D Mi,carros/coupe-deportivo
+US,"59,900",2022,Mini Cooper Countryman S,2022 - Gasolina - Nuevo - N/D Mi,carros/coupe-deportivo
+US,"260,000",2022,Porsche 911 Carrera S,2022 - Gasolina - Nuevo - N/D Km,carros/coupe-deportivo
+US,"59,900",2022,Mini Cooper Countryman S,2022 - Gasolina - Nuevo - N/D Mi,carros/coupe-deportivo
+US,"59,900",2022,Mini Cooper Countryman S,2022 - Gasolina - Nuevo - N/D Mi,carros/coupe-deportivo
+US,"59,995",2022,Mini Cooper Countryman S,2022 - Gasolina - Nuevo - N/D Km,carros/coupe-deportivo
+US,"279,000",2021,Porsche 911 Turbo,2021 - Gasolina - Nuevo - N/D Mi,carros/coupe-deportivo
+US,"475,000",2021,Ferrari F8 Spider,2021 - Gasolina - Nuevo - N/D Km,carros/coupe-deportivo
+US,"49,900",2021,Mini Cooper S Convertible,"2021 - Gasolina - Usado - 2,000 Km",carros/coupe-deportivo
+US,"47,500",2021,Mini Cooper John Cooper Works,2021 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+US,"49,900",2021,Mini Cooper Countryman,2021 - Gasolina - Nuevo - N/D Km,carros/coupe-deportivo
+US,"61,900",2021,Mini Cooper Convertible,2021 - Gasolina - Nuevo - N/D Km,carros/coupe-deportivo
+US,"93,500",2021,Ford Mustang Mach-e ,2021 - Eléctrico - Usado - N/D Mi,carros/coupe-deportivo
+US,"475,000",2021,Ferrari F8 Spider,2021 - Gasolina - Nuevo - N/D Mi,carros/coupe-deportivo
+US,"415,000",2021,Ferrari Roma,2021 - Gasolina - Nuevo - N/D Mi,carros/coupe-deportivo
+US,"56,000",2021,Dodge Challenger,2021 - Gasolina - Nuevo - N/D Mi,carros/coupe-deportivo
+US,"165,000",2021,Chevrolet Corvette Stingray Z51,2021 - Gasolina - Nuevo - N/D Mi,carros/coupe-deportivo
+US,"162,000",2021,Chevrolet Corvette Stingray Z51,2021 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+US,"278,000",2021,Porsche 911 Turbo,2021 - Gasolina - Usado - 738 Km,carros/coupe-deportivo
+US,"265,000",2021,Porsche 911 Turbo,"2021 - Gasolina - Usado - 2,000 Km",carros/coupe-deportivo
+US,"325,000",2021,Porsche 911 Turbo S,2021 - Gasolina - Nuevo - N/D Mi,carros/coupe-deportivo
+US,"213,900",2021,Porsche 911 Carrera 4 S,2021 - Gasolina - Nuevo - N/D Mi,carros/coupe-deportivo
+US,"86,000",2021,Ford Mustang Mach-e ,2021 - Eléctrico - Nuevo - 260 Mi,carros/coupe-deportivo
+US,"140,000",2021,Chevrolet Corvette,2021 - Gasolina - Nuevo - N/D Mi,carros/coupe-deportivo
+US,"110,900",2020,Toyota Supra,"2020 - Gasolina - Usado - 3,765 Mi",carros/coupe-deportivo
+US,"189,000",2020,Porsche 911 Carrera S,"2020 - Gasolina - Usado - 1,659 Mi",carros/coupe-deportivo
+US,"158,900",2020,Chevrolet Corvette Stingray Z51,"2020 - Gasolina - Usado - 1,080 Mi",carros/coupe-deportivo
+US,"200,000",2020,Porsche 911 Carrera 4 S,2020 - Gasolina - Nuevo - N/D Mi,carros/coupe-deportivo
+US,"179,900",2020,Chevrolet Corvette Stingray Z51,2020 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+US,"157,900",2020,Chevrolet Corvette,2020 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+US,"179,000",2020,Porsche 911 Carrera S,"2020 - Gasolina - Usado - 13,000 Mi",carros/coupe-deportivo
+US,"87,500",2020,Toyota Supra,2020 - Gasolina - Nuevo - N/D Mi,carros/coupe-deportivo
+US,"195,500",2020,Porsche 911 Carrera S,2020 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+US,"198,500",2020,Porsche 911 Carrera S,2020 - Gasolina - Nuevo - N/D Mi,carros/coupe-deportivo
+US,"650,000",2020,Ferrari 812  Superfast,"2020 - Gasolina - Usado - 5,000 Km",carros/coupe-deportivo
+US,"439,900",2020,Ferrari F8 Tributo,2020 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+US,"299,900",2020,Ferrari Portofino,2020 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+US,"63,900",2020,Ford Mustang GT,"2020 - Gasolina - Usado - 1,166 Km",carros/coupe-deportivo
+US,"160,000",2020,Chevrolet Corvette Stingray Z51,2020 - Gasolina - Nuevo - N/D Mi,carros/coupe-deportivo
+US,"295,000",2019,McLaren 570  S Coupe,2019 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+US,"279,000",2019,McLaren 570,2019 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+US,"41,900",2019,Dodge Challenger,"2019 - Gasolina - Usado - 38,700 Mi",carros/coupe-deportivo
+US,"32,900",2019,Mini Cooper Countryman,"2019 - Gasolina - Usado - 52,623 Km",carros/coupe-deportivo
+US,"63,500",2019,Ford Mustang GT,"2019 - Gasolina - Usado - 20,500 Mi",carros/coupe-deportivo
+US,"38,995",2019,Chevrolet Camaro LT,"2019 - Gasolina - Usado - 61,589 Mi",carros/coupe-deportivo
+US,"53,000",2019,Dodge Challenger RT,2019 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+US,"52,900",2019,Ford Mustang GT PREMIUM,2019 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+US,"51,000",2019,Chevrolet Camaro SS,2019 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+US,"45,000",2019,Ford Mustang Ecoboost Premium,2019 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+US,"260,000",2019,McLaren 570 GT,2019 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+US,"49,900",2019,Dodge Challenger RT,"2019 - Gasolina - Usado - 5,549 Km",carros/coupe-deportivo
+US,"51,500",2019,Chevrolet Camaro SS,2019 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+US,"265,000",2019,McLaren 570,2019 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+US,"295,000",2019,McLaren 570  S Coupe,2019 - Gasolina - Nuevo - N/D Km,carros/coupe-deportivo
+US,"265,000",2019,McLaren 570  S Coupe,"2019 - Gasolina - Usado - 1,200 Mi",carros/coupe-deportivo
+US,"165,000",2019,Nissan GT-R,"2019 - Gasolina - Usado - 5,004 Mi",carros/coupe-deportivo
+US,"83,000",2019,Chevrolet Camaro ZL1,2019 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+US,"41,900",2019,Ford Mustang Ecoboost,"2019 - Gasolina - Usado - 23,153 Mi",carros/coupe-deportivo
+US,"40,900",2019,Mini Cooper S Countryman ALL4,2019 - Gasolina - Usado - N/D Km,carros/coupe-deportivo
+US,"55,900",2019,Chevrolet Camaro 2 SS,2019 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+US,"264,900",2019,McLaren 570,2019 - Gasolina - Usado - 180 Km,carros/coupe-deportivo
+US,"31,900",2018,Mini Cooper Countryman,"2018 - Gasolina - Usado - 98,846 Mi",carros/coupe-deportivo
+US,"36,500",2018,Mini Cooper S Countryman ALL4,2018 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+US,"35,900",2018,Ford Mustang Ecoboost Premium,"2018 - Gasolina - Usado - 34,000 Mi",carros/coupe-deportivo
+US,"315,000",2018,Porsche 911 Turbo S,2018 - Gasolina - Usado - N/D Km,carros/coupe-deportivo
+US,"35,900",2018,Dodge Challenger SXT,"2018 - Gasolina - Usado - 13,000 Km",carros/coupe-deportivo
+US,"32,900",2018,Ford Mustang Ecoboost,"2018 - Gasolina - Usado - 34,776 Mi",carros/coupe-deportivo
+US,"41,900",2018,Ford Mustang,2018 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+US,"44,500",2018,Ford Mustang GT Convertible,"2018 - Gasolina - Usado - 21,000 Mi",carros/coupe-deportivo
+US,"41,900",2018,Chevrolet Camaro RS,2018 - Gasolina - Usado - N/D Km,carros/coupe-deportivo
+US,"35,200",2018,Ford Mustang,2018 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+US,"29,500",2017,Ford Mustang Ecoboost,2017 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+US,"34,900",2017,Chevrolet Camaro RS,2017 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+US,"23,500",2017,Mini Cooper Hardtop,"2017 - Gasolina - Usado - 48,988 Mi",carros/coupe-deportivo
+US,"33,500",2017,Ford Mustang Ecoboost Premium,2017 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+US,"178,000",2017,Porsche 911 Turbo,"2017 - Gasolina - Usado - 17,000 Km",carros/coupe-deportivo
+US,"34,000",2017,Ford Mustang Ecoboost,"2017 - Gasolina - Usado - 54,599 Mi",carros/coupe-deportivo
+US,"129,900",2017,Porsche 911 Carrera S,"2017 - Gasolina - Usado - 9,800 Km",carros/coupe-deportivo
+US,"29,000",2017,Ford Mustang,2017 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+US,"32,900",2017,Mini Cooper Countryman S,2017 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+US,"24,499",2017,Mini Cooper Hardtop,"2017 - Gasolina - Usado - 30,000 Mi",carros/coupe-deportivo
+US,"31,999",2017,Mini Cooper S Convertible,2017 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+US,"31,999",2017,Mini Cooper S Convertible,2017 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+US,"26,899",2017,Mini Cooper S,2017 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+US,"32,900",2017,Mini Cooper Countryman,2017 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+US,"23,900",2017,Mini Cooper Hardtop,"2017 - Gasolina - Usado - 55,000 Km",carros/coupe-deportivo
+US,"32,500",2017,Ford Mustang,2017 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+US,"31,000",2017,Ford Mustang Ecoboost Premium,2017 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+US,"32,999",2017,Ford Mustang,"2017 - Gasolina - Usado - 51,000 Mi",carros/coupe-deportivo
+US,"23,500",2017,Mini Cooper Hardtop,2017 - Gasolina - Usado - N/D Km,carros/coupe-deportivo
+US,"34,900",2017,Chevrolet Camaro RS,"2017 - Gasolina - Usado - 41,000 Mi",carros/coupe-deportivo
+US,"26,300",2017,Ford Mustang Ecoboost,2017 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+US,"28,900",2017,Chevrolet Camaro RS,2017 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+US,"33,800",2017,Ford Mustang Premiun Convertible,2017 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+US,"28,500",2017,Ford Mustang Ecoboost,"2017 - Gasolina - Usado - 58,000 Km",carros/coupe-deportivo
+US,"79,000",2017,Dodge Challenger SRT-HELLCAT,"2017 - Gasolina - Usado - 23,000 Mi",carros/coupe-deportivo
+US,"119,900",2017,Porsche Carrera,2017 - Gasolina - Usado - 14 Mi,carros/coupe-deportivo
+US,"34,500",2017,Chevrolet Camaro,2017 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+US,"54,900",2017,Dodge Challenger RT,"2017 - Gasolina - Usado - 9,688 Km",carros/coupe-deportivo
+US,"129,000",2017,Porsche 911 Carrera S,2017 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+US,"24,000",2017,Mini Cooper,"2017 - Gasolina - Usado - 32,000 Mi",carros/coupe-deportivo
+US,"59,900",2017,Chevrolet Camaro 2 SS,"2017 - Gasolina - Usado - 7,000 Mi",carros/coupe-deportivo
+US,"44,790",2017,Chevrolet Camaro SS,"2017 - Gasolina - Usado - 18,000 Mi",carros/coupe-deportivo
+US,"42,700",2017,Ford Mustang GT,"2017 - Gasolina - Usado - 32,000 Mi",carros/coupe-deportivo
+US,"35,500",2017,Chevrolet Camaro RS,"2017 - Gasolina - Usado - 13,000 Mi",carros/coupe-deportivo
+US,"129,000",2017,Porsche 911 Carrera S,"2017 - Gasolina - Usado - 24,000 Km",carros/coupe-deportivo
+US,"33,000",2017,Ford Mustang Ecoboost Premium,"2017 - Gasolina - Usado - 45,000 Mi",carros/coupe-deportivo
+US,"28,500",2017,Ford Mustang Ecoboost,2017 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+US,"29,500",2017,Chevrolet Camaro,2017 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+US,"165,000",2017,Porsche 911 Turbo,"2017 - Gasolina - Usado - 17,858 Km",carros/coupe-deportivo
+US,"32,900",2017,Ford Mustang Ecoboost,2017 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+US,"21,900",2016,Mini Cooper Hardtop,2016 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+US,"32,900",2016,Chevrolet Camaro,2016 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+US,"19,500",2016,Mini Cooper,2016 - Gasolina - Usado - N/D Km,carros/coupe-deportivo
+US,"29,995",2016,Ford Mustang Ecoboost Premium,2016 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+US,"24,900",2016,Mini Cooper Clubman S,2016 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+US,"21,900",2016,Mini Cooper Clubman,2016 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+US,"31,500",2016,Ford Mustang Ecoboost Premium,2016 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+US,"23,900",2016,Ford Mustang,2016 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+US,"24,500",2016,Mini Cooper Clubman S,"2016 - Gasolina - Usado - 48,000 Km",carros/coupe-deportivo
+US,"24,999",2016,Mini Cooper Countryman,2016 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+US,"24,999",2016,Mini Cooper Countryman S,2016 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+US,"22,900",2016,Mini Cooper Countryman S,2016 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+US,"25,999",2016,Mini Cooper Convertible,2016 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+US,"20,500",2016,Mini Cooper,2016 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+US,"87,900",2016,Chevrolet Corvette Z06,"2016 - Gasolina - Usado - 12,000 Mi",carros/coupe-deportivo
+US,"24,500",2016,Ford Mustang,"2016 - Gasolina - Usado - 52,000 Mi",carros/coupe-deportivo
+US,"190,000",2016,McLaren 570  S Coupe,2016 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+US,"22,500",2016,Mini Cooper Clubman,2016 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+US,"87,900",2016,Porsche Cayman,"2016 - Gasolina - Usado - 14,297 Mi",carros/coupe-deportivo
+US,"107,500",2016,Nissan GT-R,2016 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+US,"45,900",2016,Chevrolet Camaro 2 SS,"2016 - Gasolina - Usado - 39,000 Km",carros/coupe-deportivo
+US,"33,000",2016,Chevrolet Camaro RS,"2016 - Gasolina - Usado - 69,115 Mi",carros/coupe-deportivo
+US,"19,900",2016,Mini Cooper Countryman,2016 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+US,"22,900",2016,Mini Cooper Clubman,2016 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+US,"40,000",2016,Chevrolet Camaro SS,"2016 - Gasolina - Usado - 43,000 Mi",carros/coupe-deportivo
+US,"24,500",2016,Mini Cooper Countryman S,2016 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+US,"23,000",2016,Mini Cooper S,2016 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+US,"29,900",2016,Ford Mustang Premiun Convertible,2016 - Gasolina - Usado - N/D Km,carros/coupe-deportivo
+US,"36,500",2016,Ford Mustang Premiun Convertible,2016 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+US,"21,900",2016,Mini Cooper Countryman S,2016 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+US,"89,900",2016,Chevrolet Corvette Z06,2016 - Gasolina - Usado - 13 Mi,carros/coupe-deportivo
+US,"22,500",2016,Ford Mustang,2016 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+US,"24,500",2016,Mini Cooper Clubman,2016 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+US,"25,500",2016,Dodge Challenger SXT,2016 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+US,"24,500",2016,Ford Mustang Ecoboost,2016 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+US,"26,900",2016,Dodge Challenger,2016 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+US,"39,000",2016,Chevrolet Camaro SS,2016 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+US,"33,500",2016,Ford Mustang GT,2016 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+US,"20,500",2016,Mini Cooper Countryman S,2016 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+US,"68,800",2016,Lexus RC F Sport,"2016 - Gasolina - Usado - 29,695 Mi",carros/coupe-deportivo
+US,"44,900",2016,Chevrolet Camaro SS,"2016 - Gasolina - Usado - 32,000 Km",carros/coupe-deportivo
+US,"37,900",2016,Ford Mustang GT,2016 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+US,"37,000",2016,Chevrolet Camaro SS,2016 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+US,"24,500",2016,Ford Mustang Ecoboost,"2016 - Gasolina - Usado - 75,000 Mi",carros/coupe-deportivo
+US,"28,000",2015,Chevrolet Camaro SS,2015 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+US,"33,000",2015,Ford Mustang GT,2015 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+RD,"880,000",2015,Mini Cooper Hardtop,"2015 - Gasolina - Usado - 43,000 Mi",carros/coupe-deportivo
+US,"21,500",2015,Chevrolet Camaro RS,2015 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+US,"19,900",2015,Mini Cooper Countryman,2015 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+US,"20,500",2015,Mini Cooper Paceman,"2015 - Gasolina - Usado - 32,000 Km",carros/coupe-deportivo
+US,"23,600",2015,Ford Mustang,2015 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+US,"32,500",2015,Ford Mustang GT,2015 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+US,"21,500",2015,Chevrolet Camaro LT,2015 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+US,"18,900",2015,Mini Cooper Countryman S,"2015 - Gasolina - Usado - 145,000 Mi",carros/coupe-deportivo
+US,"22,500",2015,Mini Cooper S,2015 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+US,"21,499",2015,Mini Cooper Countryman S,2015 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+US,"19,499",2015,Mini Cooper,2015 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+US,"19,499",2015,Mini Cooper Hardtop,2015 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+US,"19,499",2015,Mini Cooper,2015 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+US,"19,899",2015,Mini Cooper Countryman S,2015 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+US,"18,899",2015,Mini Cooper Countryman,2015 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+US,"18,499",2015,Mini Cooper Hardtop,2015 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+US,"20,900",2015,Chevrolet Camaro LT,2015 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+US,"26,900",2015,Subaru BRZ,"2015 - Gasolina - Usado - 25,000 Km",carros/coupe-deportivo
+US,"37,500",2015,Ford Mustang GT 50 Aniversario,"2015 - Gasolina - Usado - 78,000 Mi",carros/coupe-deportivo
+US,"20,900",2015,Chevrolet Camaro LS,2015 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+US,"19,900",2015,Mini Cooper S,2015 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+US,"16,500",2015,Mini Cooper,2015 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+US,"16,900",2015,Mini Cooper Paceman,2015 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+US,"18,800",2015,Mini Cooper Countryman S,"2015 - Gasolina - Usado - 132,000 Mi",carros/coupe-deportivo
+US,"32,500",2015,Chevrolet Camaro 2 SS,"2015 - Gasolina - Usado - 8,000 Mi",carros/coupe-deportivo
+US,"22,500",2015,Mini Cooper S,2015 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+US,"15,900",2015,Volkswagen Beetle,"2015 - Gasolina - Usado - 44,000 Km",carros/coupe-deportivo
+US,"24,900",2015,Ford Mustang Ecoboost Premium,2015 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+US,"22,500",2015,Chevrolet Camaro LT,2015 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+US,"16,900",2015,Mini Cooper Countryman S,2015 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+US,"16,500",2015,Mini Cooper,2015 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+US,"35,000",2015,Ford Mustang GT PREMIUM,2015 - Diesel - Usado - 126 Mi,carros/coupe-deportivo
+US,"22,900",2015,Ford Mustang Ecoboost,"2015 - Gasolina - Usado - 102,000 Mi",carros/coupe-deportivo
+US,"35,900",2015,Ford Mustang GT,2015 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+US,"19,500",2015,Mini Cooper,2015 - Gasolina - Usado - N/D Km,carros/coupe-deportivo
+US,"23,500",2015,Ford Mustang,2015 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+US,"24,599",2015,Ford Mustang,"2015 - Gasolina - Usado - 51,000 Mi",carros/coupe-deportivo
+US,"31,500",2015,Ford Mustang GT,"2015 - Gasolina - Usado - 27,000 Km",carros/coupe-deportivo
+US,"18,000",2015,Mini Cooper,2015 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+US,"36,900",2015,Dodge Challenger RT,"2015 - Gasolina - Usado - 42,000 Mi",carros/coupe-deportivo
+US,"14,000",2015,Volkswagen Beetle,"2015 - Gasolina - Usado - 63,000 Mi",carros/coupe-deportivo
+US,"21,500",2015,Ford Mustang,"2015 - Gasolina - Usado - 81,000 Mi",carros/coupe-deportivo
+US,"138,000",2015,Porsche GT3,2015 - Gasolina - Usado - N/D Km,carros/coupe-deportivo
+RD,"1,100,000",2015,Mini Cooper,"2015 - Gasolina - Usado - 90,000 Mi",carros/coupe-deportivo
+US,"110,000",2015,BMW i8,2015 - Híbrido - Usado - 521 Mi,carros/coupe-deportivo
+US,"26,900",2015,Ford Mustang Ecoboost Premium 50 Aniversario,"2015 - Gasolina - Usado - 36,000 Mi",carros/coupe-deportivo
+US,"32,700",2015,Ford Mustang GT,2015 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+US,"33,000",2015,Ford Mustang GT,2015 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+US,"13,900",2015,Mini Cooper,2015 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+US,"23,000",2015,Chevrolet Camaro LT,2015 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+US,"84,500",2015,Porsche Cayman GTS,"2015 - Gasolina - Usado - 28,000 Km",carros/coupe-deportivo
+RD,"998,000",2015,Mini Cooper,2015 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+US,"24,900",2015,Ford Mustang Ecoboost Premium,2015 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+US,"58,900",2015,Chevrolet Corvette,"2015 - Gasolina - Usado - 17,000 Mi",carros/coupe-deportivo
+US,"149,900",2015,Porsche 911 Turbo S,"2015 - Gasolina - Usado - 21,215 Mi",carros/coupe-deportivo
+US,"17,000",2015,Mini Cooper S,2015 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+US,"22,900",2015,Ford Mustang,"2015 - Gasolina - Usado - 80,000 Km",carros/coupe-deportivo
+US,"22,500",2015,Chevrolet Camaro LT,2015 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+US,"24,300",2015,Ford Mustang,"2015 - Gasolina - Usado - 90,000 Mi",carros/coupe-deportivo
+US,"17,300",2015,Mini Cooper Countryman S,"2015 - Gasolina - Usado - 70,000 Mi",carros/coupe-deportivo
+US,"19,500",2015,Mini Cooper Hardtop,2015 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+US,"18,500",2015,Mini Cooper Hardtop,2015 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+US,"19,999",2015,Subaru BRZ,2015 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+US,"22,000",2015,Dodge Challenger,2015 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+US,"13,899",2014,Mini Cooper S,2014 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+US,"17,900",2014,Mini Cooper Countryman S,2014 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+RD,"735,000",2014,Mini Cooper Countryman S,2014 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+US,"19,900",2014,Dodge Challenger SXT,2014 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+RD,"995,000",2014,Mini Cooper Countryman S,2014 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+US,"13,200",2014,Mini Cooper Clubman,2014 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+US,"22,000",2014,Ford Mustang GT,2014 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+US,"13,950",2014,Mini Cooper Convertible,2014 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+US,"57,900",2014,Porsche Cayman S,"2014 - Gasolina - Usado - 40,000 Km",carros/coupe-deportivo
+US,"17,350",2014,Mini Cooper Countryman S,"2014 - Gasolina - Usado - 116,000 Mi",carros/coupe-deportivo
+US,"14,900",2014,Mini Cooper,2014 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+US,"17,900",2014,Mini Cooper Countryman S,2014 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+US,"17,800",2014,Mini Cooper S Countryman ALL4,2014 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+US,"24,500",2014,Chevrolet Camaro,"2014 - Gasolina - Usado - 84,000 Mi",carros/coupe-deportivo
+US,"23,500",2014,Chevrolet Camaro,2014 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+US,"24,500",2014,Chevrolet Camaro LS,2014 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+US,"21,500",2014,Mini Cooper Countryman S,2014 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+RD,"995,000",2014,Mini Cooper Countryman S,2014 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+US,"22,000",2014,Chevrolet Camaro LT,2014 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+US,"23,900",2014,Ford Mustang PREMIUM,"2014 - Gasolina - Usado - 85,000 Mi",carros/coupe-deportivo
+US,"16,500",2014,Volkswagen Beetle Turbo,2014 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+US,"19,500",2014,Chevrolet Camaro,2014 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+RD,"880,000",2014,Ford Mustang,2014 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+US,"80,000",2014,Nissan GT-R Black Edition ,2014 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+US,"89,900",2014,Porsche 911 Carrera S,2014 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+US,"24,500",2014,Dodge Challenger RT,2014 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+US,"22,000",2014,Chevrolet Camaro,2014 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+US,"12,800",2013,Mini Cooper,2013 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+US,"82,900",2013,Porsche 911 Carrera 4 S,2013 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+US,"13,000",2013,Volkswagen Beetle,2013 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+US,"17,300",2013,Mini Cooper Countryman S,2013 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+RD,"720,000",2013,Mini Cooper,2013 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+US,"16,500",2013,Chevrolet Camaro LS,2013 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+US,"11,900",2013,Volkswagen Beetle,2013 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+RD,"950,000",2013,Chevrolet Camaro RS,"2013 - Gasolina - Usado - 70,000 Mi",carros/coupe-deportivo
+RD,"1,100,000",2013,Mini Cooper Countryman S,2013 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+RD,"755,000",2013,Mini Cooper Hardtop,"2013 - Gasolina - Usado - 100,000 Mi",carros/coupe-deportivo
+US,"19,500",2013,Chevrolet Camaro,2013 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+US,"15,500",2013,Mini Cooper Paceman,2013 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+US,"22,900",2013,Chevrolet Camaro,"2013 - Gasolina - Usado - 33,000 Mi",carros/coupe-deportivo
+US,"13,000",2012,Mini Cooper Countryman S,2012 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+RD,"650,000",2012,Mini Cooper,2012 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+RD,"680,000",2012,Ford Mustang,"2012 - Gasolina - Usado - 90,000 Mi",carros/coupe-deportivo
+RD,"728,000",2012,Ford Mustang,2012 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+US,"199,950",2012,Ferrari 458,"2012 - Gasolina - Usado - 38,559 Km",carros/coupe-deportivo
+US,"181,000",2012,Ferrari 458,"2012 - Gasolina - Usado - 15,000 Km",carros/coupe-deportivo
+US,"15,500",2012,Mini Cooper Countryman,"2012 - Gasolina - Usado - 80,000 Km",carros/coupe-deportivo
+US,"17,000",2012,Chevrolet Camaro RS,"2012 - Gasolina - Usado - 79,235 Mi",carros/coupe-deportivo
+US,"75,000",2012,Nissan GT-R,2012 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+US,"19,500",2012,Chevrolet Camaro RS,2012 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+US,"195,000",2012,Ferrari 458,2012 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+US,"18,900",2012,Ford Mustang,2012 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+US,"95,000",2012,Nissan GT-R 35 Skyline,2012 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+RD,"850,000",2011,Chevrolet Camaro,2011 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+RD,"890,000",2011,Chevrolet Camaro RS,2011 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+RD,"750,000",2011,Mini Cooper Countryman S,"2011 - Gasolina - Usado - 143,050 Mi",carros/coupe-deportivo
+RD,"905,000",2011,Chevrolet Camaro RS,2011 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+US,"14,900",2011,Mini Cooper S Countryman ALL4,"2011 - Gasolina - Usado - 104,256 Km",carros/coupe-deportivo
+US,"26,000",2011,Chevrolet Camaro 2 SS,"2011 - Gasolina - Usado - 65,000 Mi",carros/coupe-deportivo
+US,"17,900",2011,Chevrolet Camaro SS,2011 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+US,"10,000",2011,Ford Mustang,"2011 - Gasolina - Usado - 240,000 Km",carros/coupe-deportivo
+RD,"905,000",2011,Mini Cooper Countryman S,"2011 - Gasolina - Usado - 100,000 Mi",carros/coupe-deportivo
+US,"11,900",2011,Mini Cooper Countryman S,2011 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+RD,"850,000",2011,Chevrolet Camaro,2011 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+US,"17,500",2011,Infiniti F35,2011 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+US,"17,000",2010,Chevrolet Camaro SS,2010 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+RD,"790,000",2010,Dodge Challenger,"2010 - Gasolina - Usado - 151,918 Mi",carros/coupe-deportivo
+US,"20,000",2010,Chevrolet Camaro SS,2010 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+US,"17,500",2010,Chevrolet Camaro SS,"2010 - Gasolina - Usado - 92,000 Mi",carros/coupe-deportivo
+US,"17,000",2010,Chevrolet Camaro 2 SS,"2010 - Gasolina - Usado - 45,797 Mi",carros/coupe-deportivo
+US,"12,000",2010,Ford Mustang,2010 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+US,"19,000",2010,Chevrolet Camaro 2 SS,2010 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+US,"8,800",2009,Mini Cooper S,2009 - Gasolina - Usado - 1 Mi,carros/coupe-deportivo
+US,"8,800",2009,Mini Cooper S,2009 - Gasolina - Usado - 1 Mi,carros/coupe-deportivo
+RD,"470,000",2009,Ford Mustang,2009 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+RD,"585,000",2009,Mini Cooper S,"2009 - Gasolina - Usado - 31,000 Km",carros/coupe-deportivo
+RD,"475,000",2009,Mini Cooper Clubman,2009 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+US,"34,000",2009,Ford Mustang Shelby Cobra GT500,2009 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+US,"42,000",2008,Porsche 911 Carrera S,"2008 - Gasolina - Usado - 34,000 Mi",carros/coupe-deportivo
+US,"29,000",2008,Ford Mustang Roush Stage 3,"2008 - Gasolina - Usado - 24,000 Mi",carros/coupe-deportivo
+RD,"750,000",2007,Nissan 350 Z,2007 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+RD,"449,000",2006,Mini Cooper S,2006 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+US,"78,000",2006,Ferrari F-430,"2006 - Gasolina - Usado - 17,000 Mi",carros/coupe-deportivo
+US,"23,500",2005,Chevrolet Corvette,2005 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+US,"120,000",2005,Lamborghini Gallardo,2005 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+US,"23,500",2005,Chevrolet Corvette,"2005 - Gasolina - Usado - 55,000 Mi",carros/coupe-deportivo
+US,"21,500",2005,Chevrolet Corvette C6,2005 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+US,"399,950",2004,Mini Cooper S,"2004 - Gasolina - Usado - 54,800 Mi",carros/coupe-deportivo
+US,"17,000",2001,Porsche Boxster S,"2001 - Gasolina - Usado - 79,172 Mi",carros/coupe-deportivo
+US,"8,900",1997,Ford Mustang,1997 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+US,"10,900",1991,Nissan 300 ZX,1991 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+US,"14,000",1990,Chevrolet Corvette,1990 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+US,"25,000",1988,Mercedes-Benz Clase E 300 CE,"1988 - Gasolina - Usado - 80,000 Mi",carros/coupe-deportivo
+US,"13,000",1987,Chevrolet Corvette,1987 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+RD,"440,000",1986,Chevrolet Corvette,1986 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+US,"20,900",1979,Lincoln Continental ,1979 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+US,"21,000",1979,Chevrolet Corvette,1979 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
+US,"65,000",1971,Porsche 911 Targa,"1971 - Gasolina - Usado - 70,000 Mi",carros/coupe-deportivo
+US,"43,000",1965,Ford Mustang GT,1965 - Gasolina - Usado - N/D Mi,carros/coupe-deportivo
