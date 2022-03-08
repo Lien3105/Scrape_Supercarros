@@ -6,16 +6,16 @@ import re
 
 
 types = ['carros/sedan', 'carros/hatchback', 'carros/jeepeta', 'carros/camioneta', 'carros/coupe-deportivo', 'motores', 'barcos', 'v.pesados']
-n = 0
+df_full = pd.DataFrame()
 for type_ in types:
-    n += len(type_)
     print(f"Scrapping {type_}...")
     ## Create lists
     currency_list = []
     price_list = []
     year_list = []
     brand_model_list = []
-    info_list = []
+    fuel_list = []
+    condition_list = []
     types_list = []
     for i in range(0, 42):
         num = i
@@ -25,7 +25,6 @@ for type_ in types:
         ## The soup
         soup = BeautifulSoup(html_text.text, 'lxml')
         big_search = soup.find('div', id = 'bigsearch-results-inner-container')
-        
         info = big_search.find_all('li', class_ = "normal")
         
         for li in info:
@@ -39,17 +38,21 @@ for type_ in types:
             marca_modelo = li.find('div', class_ = 'title1').text
             brand_model_list.append(marca_modelo)
             datos = li.find('div', class_ = 'title2').text
-            info_list.append(datos)
+            combustible = re.findall('(?<=\-)(.*?)(?=\-)', datos)[0]
+            fuel_list.append(combustible)
+            condicion = re.findall('(?<=\-)(.*?)(?=\-)', datos)[1]
+            condition_list.append(condicion)
             types_list.append(type_)
             
-    dictionary = {
-        'Currency' : currency_list,
-        'Price' :price_list,
-        'Year' : year_list,
-        'Brand_Model' : brand_model_list,
-        'Info' : info_list,
-        'Type' : types_list,
-    }
-    
-    df = pd.DataFrame(dictionary)
-    df.to_csv(f"./{n}.csv", index = False)
+        dictionary = {
+            'Currency' : currency_list,
+            'Price' :price_list,
+            'Year' : year_list,
+            'Brand_Model' : brand_model_list,
+            'Fuel' : fuel_list,
+            'Condition' : condition_list,
+            'Type' : types_list,
+        }
+        
+        df = pd.DataFrame(dictionary)
+        df_full = df_full.append(df)
