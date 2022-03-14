@@ -6,7 +6,7 @@ import re
 
 
 types = ['carros/sedan', 'carros/hatchback', 'carros/jeepeta', 'carros/camioneta', 'carros/coupe-deportivo', 'motores', 'barcos', 'v.pesados']
-df_full = pd.DataFrame()
+Supercarros = pd.DataFrame()
 for type_ in types:
     print(f"Scrapping {type_}...")
     ## Create lists
@@ -24,7 +24,9 @@ for type_ in types:
         html_text = requests.get(f'https://www.supercarros.com/{type_}/?PagingPageSkip={num}')
         ## The soup
         soup = BeautifulSoup(html_text.text, 'lxml')
+        ## Results Container
         big_search = soup.find('div', id = 'bigsearch-results-inner-container')
+        ## Info
         info = big_search.find_all('li', class_ = "normal")
         
         for li in info:
@@ -44,15 +46,19 @@ for type_ in types:
             condition_list.append(condicion)
             types_list.append(type_)
             
-        dictionary = {
-            'Currency' : currency_list,
-            'Price' :price_list,
-            'Year' : year_list,
-            'Brand_Model' : brand_model_list,
-            'Fuel' : fuel_list,
-            'Condition' : condition_list,
-            'Type' : types_list,
-        }
-        
-        df = pd.DataFrame(dictionary)
-        df_full = df_full.append(df)
+    dictionary = {
+        'Currency' : currency_list,
+        'Price' :price_list,
+        'Year' : year_list,
+        'Brand_Model' : brand_model_list,
+        'Fuel' : fuel_list,
+        'Condition' : condition_list,
+        'Type' : types_list,
+    }
+    
+    df = pd.DataFrame(dictionary)
+    Supercarros = Supercarros.append(df)
+    
+## Exportar a csv
+Supercarros.to_csv('C:/Users/NeilCarvajal/Documents/GitHub/Scrape_Supercarros/supercarros.csv', index= False)
+    
