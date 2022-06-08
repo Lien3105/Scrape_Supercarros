@@ -3,6 +3,7 @@ from bs4 import BeautifulSoup
 import pandas as pd
 import requests
 import re
+from datetime import date
 
 
 types = ['carros/sedan', 'carros/hatchback', 'carros/jeepeta', 'carros/camioneta', 'carros/coupe-deportivo', 'motores', 'barcos', 'v.pesados']
@@ -17,6 +18,7 @@ for type_ in types:
     fuel_list = []
     condition_list = []
     types_list = []
+    images_list = []
     for i in range(0, 42):
         num = i
         print(f'Scrapping page {num}...')
@@ -45,6 +47,8 @@ for type_ in types:
             condicion = re.findall('(?<=\-)(.*?)(?=\-)', datos)[1]
             condition_list.append(condicion)
             types_list.append(type_)
+            #image = li.find('img', class_ = 'real').text
+            #images_list.append(image)
             
     dictionary = {
         'Currency' : currency_list,
@@ -54,11 +58,12 @@ for type_ in types:
         'Fuel' : fuel_list,
         'Condition' : condition_list,
         'Type' : types_list,
+        #'Image' : images_list,
+        'Fecha' : date.today()
     }
     
     df = pd.DataFrame(dictionary)
     Supercarros = Supercarros.append(df)
     
 ## Exportar a csv
-Supercarros.to_csv('C:/Users/NeilCarvajal/Documents/GitHub/Scrape_Supercarros/supercarros.csv', index= False)
-    
+Supercarros.to_csv(f'C:/Users/NeilCarvajal/Documents/GitHub/Scrape_Supercarros/supercarros_{date.today()}.csv', index= False)
