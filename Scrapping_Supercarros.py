@@ -44,7 +44,7 @@ for type_ in types:
             datos = li.find('div', class_ = 'title2').text
             combustible = re.findall('(?<=\-)(.*?)(?=\-)', datos)[0]
             fuel_list.append(combustible)
-            condicion = re.findall('(?<=\-)(.*?)(?=\-)', datos)[1]
+            condicion = re.findall('(?<=\-)(.*?)(?=\-)', datos)[0]
             condition_list.append(condicion)
             types_list.append(type_)
             #image = li.find('img', class_ = 'real').text
